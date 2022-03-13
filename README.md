@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20There👋%20&fontAlign=80&fontAlignY=40&color=gradient&fontColor=888888)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20There👋%20&fontAlign=80&fontAlignY=40&color=gradient)
 
 - 🔭 I’m currently working on `Data Analyst/Scientist`, but
 - 🌱 I’m currently learning `Frontend Development` - React, Redux, Firebase ... make me excited !
