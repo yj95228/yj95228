@@ -1,8 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20There👋%20&fontAlign=80&fontAlignY=40&color=gradient)
 
-- 🔭 I’m currently working on `Data Analyst/Scientist`, but
-- 🌱 I’m currently learning `Frontend Development` - React, Redux, Firebase ... make me excited !
-- 🤔 I’m supposed to learn Next.js, TypeScript, Node.js ...
+- 🔭 I majored in Statistics and Data Mining, but
+- 🌱 I’m currently learning `Frontend Development` - Javascript, React, ... make me excited !
+- 🤔 I’m supposed to learn React Native, Next.js, TypeScript ...
 - 💬 Ask me about SQL, R, Bigquery and me
 - 😄 Pronouns: `Healthy Resilience`, `Strong Mentality and Patience`
 - ⚡ Fun fact: `ISTP` - Logical Pragmatist
