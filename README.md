@@ -1,8 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20There👋%20&fontAlign=80&fontAlignY=40&color=gradient)
 
 - 🔭 I majored in Statistics, but
-- 🌱 I’m currently learning `Frontend Development` - Javascript, React, ... make me excited !
-- 🤔 I’m supposed to learn React Native, Next.js, TypeScript ...
+- 🌱 I’m currently learning `Frontend Development` - Javascript, React, ... which make me excited !
+- 🤔 I’m supposed to learn React Native, TypeScript, Next.js ...
 - 💬 Ask me anything !
 - 😄 Pronouns: `Healthy Resilience`, `Strong Mentality and Patience`
 - ⚡ Fun fact: `ISTP` - Logical Pragmatist
