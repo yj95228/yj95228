@@ -1,8 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20There👋%20&fontAlign=80&fontAlignY=40&color=gradient)
 
-- 🔭 I majored in Statistics, but
-- 🌱 I’m currently learning `Frontend Development` - Javascript, React, ... which make me excited !
-- 🤔 I’m supposed to learn React Native, TypeScript, Next.js ...
+- 🌱 I’m currently learning `Frontend Development` - Javascript, TypeScript, React, ...
+- 🤔 I’m supposed to learn React Native, Next.js, and so on
+- 🔭 I majored in Statistics
 - 💬 Ask me anything !
 - 😄 Pronouns: `Healthy Resilience`, `Strong Mentality and Patience`
 - ⚡ Fun fact: `ISTP` - Logical Pragmatist
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 </p>
 <p align='center'>
