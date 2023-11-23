@@ -38,5 +38,8 @@
   
   <h3>•••</h3>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj95228&layout=compact) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yj95228)](https://solved.ac/yj95228)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj95228&layout=compact)
+  <a href="https://solved.ac/yj95228/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj95228">
+  <a/>
 </div>
