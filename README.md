@@ -37,8 +37,8 @@
   </p>
   
   <h3>•••</h3>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj95228&layout=compact)
+
+  <!-- ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=yj95228&layout=compact) -->
   <a href="https://solved.ac/yj95228/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yj95228">
   <a/>
